@@ -36,13 +36,13 @@ DOI: [10.1109/TAES.2025.3617024](https://doi.org/10.1109/TAES.2025.3617024)
 ---
 
 🏛 **Affiliations**  
-¹ Christian Doppler Laboratory for Distributed Microwave- and Terahertz-Systems for Sensors and Data Links, Johannes Kepler University (JKU) Linz, Austria  
+¹ Christian Doppler Laboratory for Distributed Microwave- and Terahertz-Systems for Sensors and Data Links, Johannes Kepler University (JKU) Linz, Linz, Austria  
 
 ² Isfahan University of Technology (IUT), Isfahan, Iran  
 
 ³ Interdisciplinary Centre for Security, Reliability and Trust (SnT), University of Luxembourg, Luxembourg City, Luxembourg  
 
-⁴ Institute of Signal Processing, Johannes Kepler University (JKU) Linz, Austria  
+⁴ Institute of Signal Processing, Johannes Kepler University (JKU) Linz, Linz, Austria  
 
 ---
 
@@ -54,3 +54,4 @@ DOI: [10.1109/TAES.2025.3617024](https://doi.org/10.1109/TAES.2025.3617024)
 - [mohammad.alaee@uni.lu](mailto:mohammad.alaee@uni.lu)  
 - [oliver.lang@jku.at](mailto:oliver.lang@jku.at)  
 - [reinhard.feger@jku.at](mailto:reinhard.feger@jku.at) 
+
