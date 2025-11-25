@@ -56,7 +56,4 @@ Johannes Kepler University (JKU) Linz, Austria
 - [modarres@iut.ac.ir](mailto:modarres@iut.ac.ir)  
 - [mohammad.alaee@uni.lu](mailto:mohammad.alaee@uni.lu)  
 - [oliver.lang@jku.at](mailto:oliver.lang@jku.at)  
-- [reinhard.feger@jku.at](mailto:reinhard.feger@jku.at)  
-
-
-
+- [reinhard.feger@jku.at](mailto:reinhard.feger@jku.at) 
