@@ -19,7 +19,7 @@ The MATLAB code has been tested with **MATLAB R2025a**.
 
 📖 **Manuscript Title**  
 *Virtual Array Design via Hole-Free Sparse Array with Reduced Mutual Coupling Effect*  
-Published in **IEEE Transactions on Aerospace and Electronic Systems**.
+Published in **IEEE Transactions on Aerospace and Electronic Systems**.  
 DOI: [10.1109/TAES.2025.3617024](https://doi.org/10.1109/TAES.2025.3617024)
 
 ---
@@ -57,3 +57,4 @@ Johannes Kepler University (JKU) Linz, Austria
 - [mohammad.alaee@uni.lu](mailto:mohammad.alaee@uni.lu)  
 - [oliver.lang@jku.at](mailto:oliver.lang@jku.at)  
 - [reinhard.feger@jku.at](mailto:reinhard.feger@jku.at) 
+
